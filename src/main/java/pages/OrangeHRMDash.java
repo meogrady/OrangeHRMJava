@@ -21,7 +21,7 @@ public class OrangeHRMDash extends OrangeHRMBase {
     By timeSheet = By.cssSelector(".quickLaungeContainer td:nth-child(3) a");
 
     /**
-     * Creates a Home Page object that provides access to
+     * Creates a Dashboard (Dash) Page object that provides access to
      * Base page object methods.
      * @param driver
      */
